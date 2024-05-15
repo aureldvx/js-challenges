@@ -5,3 +5,6 @@ dist
 build
 converage
 tests-examples
+.env
+.vscode
+.idea
